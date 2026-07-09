@@ -1,0 +1,1028 @@
+{
+  "industries": [
+    {
+      "id": "financial-services",
+      "slug": "financial-services",
+      "title": "Financial Services",
+      "subtitle": "Secure Digital Onboarding & eKYC for Banks, Fintechs & Microfinance",
+      "hookLine": "Make customer onboarding simple, secure, and instant. truID helps banks, fintechs, EMIs, and microfinance institutions verify customers in under 30 seconds using intelligent identity and biometric verification. It ensures compliance, reduces fraud, lowers operational costs, and delivers a smooth digital experience your customers can trust.",
+      "icon": "Building2",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Financial institutions face increasing pressure to deliver fast, compliant, and fraud-proof onboarding experiences. truID enables banks, fintechs, EMIs, and microfinance institutions to verify customer identities in under 30 seconds using AI-driven liveness detection, document authentication, OCR, and touchless fingerprint biometrics. Whether onboarding new customers, merchants, or agents, truID ensures instant verification, reduced operational cost, and a seamless digital experience.",
+        "cta": "Start Secure Digital Onboarding"
+      },
+      "solutions": [
+        {
+          "title": "Digital Account Opening",
+          "description": "Streamline account creation with instant biometric verification",
+          "features": [
+            "Capture face, ID and fingerprint biometrics instantly",
+            "Automatically extract and validate customer data with OCR",
+            "Verify documents for forgery, tampering, and spoofing"
+          ]
+        },
+        {
+          "title": "Wallet & EMI Customer Onboarding",
+          "description": "Fast and secure mobile wallet registration",
+          "features": [
+            "Fast verification for mobile wallet registration",
+            "Fraud-resistant liveness detection",
+            "Seamless integration into existing apps and portals"
+          ]
+        },
+        {
+          "title": "Merchant & Agent Verification",
+          "description": "Ensure authentic merchant and agent identities",
+          "features": [
+            "Ensure authentic identities before merchant onboarding",
+            "Prevent misuse of accounts by verifying biometric ownership"
+          ]
+        },
+        {
+          "title": "Fraud Prevention & Compliance Automation",
+          "description": "Automated fraud prevention and compliance",
+          "features": [
+            "Strong anti-spoofing and identity match protection",
+            "Automatic audit trails for compliance teams"
+          ]
+        },
+        {
+          "title": "Loan Application & Credit Verification",
+          "description": "Validate borrowers before loan approval",
+          "features": [
+            "Validate borrower identity before loan approval",
+            "Reduce fraud in consumer, SME and BNPL lending flows"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Faster Conversions with <30-Second Verification",
+          "description": "Reduce onboarding time from hours to seconds and increase digital adoption",
+          "details": [
+            "Reduce onboarding time from hours to seconds",
+            "Increase digital adoption and customer satisfaction"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Significant Cost Reduction",
+          "description": "Up to 16× lower cost compared to manual KYC",
+          "details": [
+            "No hardware fingerprint scanners required",
+            "Up to 16× lower cost compared to manual KYC",
+            "Automated verification reduces call center and branch load"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Enhanced Fraud Protection",
+          "description": "Accurate passive face liveness detection",
+          "details": [
+            "Accurate passive face liveness detection",
+            "Document authentication accuracy",
+            "Automatic detection of forged or fraudulent IDs"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Seamless Customer Experience",
+          "description": "Frictionless onboarding with no complex steps",
+          "details": [
+            "Frictionless onboarding with no gestures, no complex steps",
+            "Works on all smartphones low-end devices supported",
+            "Intuitive capture guidance for users"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "End-to-End Compliance",
+          "description": "Complete recordkeeping with audit trails",
+          "details": [
+            "Supports digital onboarding rules, audit logging, risk checks",
+            "Complete recordkeeping with geo-location, timestamps, and biometric proofs"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "truID is trusted by leading banks and financial institutions due to its reliability, accuracy, and proven performance.",
+        "features": [
+          {
+            "title": "Built by Experts in AI, Biometrics & Digital Security",
+            "points": [
+              "Developed with years of R&D in computer vision and deep learning",
+              "Optimized for real-world environments and diverse user demographics"
+            ]
+          },
+          {
+            "title": "Enterprise-Grade Accuracy",
+            "points": [
+              "Overall system accuracy is good, validated through large-scale deployments",
+              "NIST NFIQ2.0–compliant fingerprint capture"
+            ]
+          },
+          {
+            "title": "Proven at Scale",
+            "points": [
+              "Millions of verifications already processed",
+              "Successfully deployed in top banks and digital finance platforms"
+            ]
+          },
+          {
+            "title": "Secure by Design",
+            "points": [
+              "Fully encrypted data flows",
+              "Anti-tampering, spoofing, and device integrity checks",
+              "On-premise or secure cloud deployment options"
+            ]
+          },
+          {
+            "title": "End-to-End Support & Integration",
+            "points": [
+              "Lightweight SDKs for Android, iOS, and web",
+              "Comprehensive documentation and dedicated technical support"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "How fast is the verification process?",
+          "answer": "Most customers are verified in under 30 seconds from start to finish."
+        },
+        {
+          "question": "Do we need special biometric hardware?",
+          "answer": "No. truID uses smartphone cameras for fingerprints and face liveness."
+        },
+        {
+          "question": "Can the system detect fake or forged documents?",
+          "answer": "Yes, truID achieves high document authentication accuracy."
+        },
+        {
+          "question": "What if data extracted by OCR needs correction?",
+          "answer": "Admins can correct the OCR output through a built-in dashboard."
+        },
+        {
+          "question": "Does truID support manual verification?",
+          "answer": "Yes review officers can manually approve or reject cases with full audit trails."
+        }
+      ]
+    },
+    {
+      "id": "telecom",
+      "slug": "telecom",
+      "title": "Telecom",
+      "subtitle": "Seamless Subscriber Verification & Fraud Prevention for Telecom Operators",
+      "hookLine": "Make subscriber onboarding fast, secure, and stress free. truID helps telecom operators verify customers instantly through smart identity and facial verification, ensuring regulatory compliance while preventing fraud. From SIM activation to account management, it delivers a smooth and reliable experience that protects your network and builds customer trust.",
+      "icon": "Smartphone",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Telecom operators are under pressure to comply with regulations while providing a smooth onboarding experience. truID enables mobile network operators (MNOs), virtual operators (MVNOs), and broadband providers to instantly verify customer identities using facial recognition, document authentication, and eSIM enrollment checks. Whether activating SIMs, enabling digital services, or managing prepaid and postpaid accounts, truID ensures secure, compliant, and rapid onboarding with minimal manual intervention.",
+        "cta": "Start Secure Telecom Verification"
+      },
+      "solutions": [
+        {
+          "title": "SIM & eSIM Activation",
+          "description": "Fast and secure subscriber activation",
+          "features": [
+            "Verify new subscribers quickly and remotely",
+            "Ensure one person, one identity per line",
+            "Reduce SIM fraud and subscription duplication"
+          ]
+        },
+        {
+          "title": "Prepaid & Postpaid Customer Onboarding",
+          "description": "Automated identity verification during registration",
+          "features": [
+            "Automate identity verification during registration",
+            "Prevent fake or multiple account creations",
+            "Seamless integration with billing and CRM systems"
+          ]
+        },
+        {
+          "title": "Digital Services Access",
+          "description": "Secure access to telecom digital services",
+          "features": [
+            "Verify identities for mobile wallets, IoT devices, and telecom apps",
+            "Enable secure remote onboarding for enterprise users",
+            "Reduce friction for mobile and broadband services"
+          ]
+        },
+        {
+          "title": "Fraud Prevention & Compliance",
+          "description": "Regulatory compliance and fraud detection",
+          "features": [
+            "Detect synthetic, stolen, or forged identities",
+            "Enforce regulatory KYC and AML requirements",
+            "Maintain tamper-proof audit trails for regulators"
+          ]
+        },
+        {
+          "title": "Employee & Field Agent Verification",
+          "description": "Verify telecom field staff and agents",
+          "features": [
+            "Confirm identity of field technicians and support staff",
+            "Control access to sensitive customer data and network assets"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Rapid Subscriber Onboarding",
+          "description": "Complete verification in under 30 seconds",
+          "details": [
+            "Complete verification in under 30 seconds",
+            "Increase conversion rates and reduce drop-offs"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Reduced Operational Costs",
+          "description": "Minimize manual KYC processing costs",
+          "details": [
+            "No dedicated biometric hardware required",
+            "Minimize manual KYC processing costs",
+            "Streamline field operations and digital service activation"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Enhanced Security & Fraud Detection",
+          "description": "99% accurate passive face liveness detection",
+          "details": [
+            "99% accurate passive face liveness detection",
+            "Automatic detection of forged documents and identity spoofing",
+            "Prevent duplicate or synthetic subscriber accounts"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "Regulatory Compliance Made Easy",
+          "description": "Compliant with local and global KYC regulations",
+          "details": [
+            "Compliant with local and global KYC regulations",
+            "Automatic generation of digital audit trails for authorities"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Frictionless Customer Experience",
+          "description": "Works on all smartphones, including low-end devices",
+          "details": [
+            "Works on all smartphones, including low-end devices",
+            "Simple, guided capture workflow",
+            "Supports digital SIM, eSIM, and mobile app onboarding"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "Telecom leaders trust truID for its proven accuracy, reliability, and ability to scale with high-volume subscriber verification",
+        "features": [
+          {
+            "title": "Expertise in AI & Digital Identity",
+            "points": [
+              "Developed with cutting-edge AI, biometrics, and computer vision research",
+              "Tested for diverse real-world environments and demographics"
+            ]
+          },
+          {
+            "title": "Enterprise-Grade Accuracy & Reliability",
+            "points": [
+              "Higher system accuracy",
+              "NIST-compliant fingerprint and facial recognition"
+            ]
+          },
+          {
+            "title": "Proven at Scale",
+            "points": [
+              "Millions of verifications processed for top telecom operators",
+              "Deployed successfully in high-volume SIM and eSIM activation workflows"
+            ]
+          },
+          {
+            "title": "Secure & Compliant by Design",
+            "points": [
+              "Fully encrypted, tamper-resistant data flows",
+              "Options for secure cloud or on-premise deployments",
+              "Continuous monitoring for fraud and spoofing"
+            ]
+          },
+          {
+            "title": "Seamless Integration & Support",
+            "points": [
+              "SDKs for Android, iOS, and web applications",
+              "Full technical support and integration guidance"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "How fast can a subscriber be verified?",
+          "answer": "Most verifications are completed in under 30 seconds."
+        },
+        {
+          "question": "Is special hardware required?",
+          "answer": "No, truID leverages smartphone cameras for face and fingerprint capture."
+        },
+        {
+          "question": "Can truID detect forged or stolen identities?",
+          "answer": "Yes, it identifies fake IDs and duplicate accounts with high accuracy."
+        },
+        {
+          "question": "Does it integrate with existing telecom systems?",
+          "answer": "Yes, truID seamlessly integrates with CRM, billing, and eSIM platforms."
+        },
+        {
+          "question": "Can field agents and staff be verified?",
+          "answer": "Yes, truID supports identity checks for employees and contractors with audit logs."
+        }
+      ]
+    },
+    {
+      "id": "transportation",
+      "slug": "transportation",
+      "title": "Transportation",
+      "subtitle": "Smart Identity Verification & Passenger Safety for Transportation Providers",
+      "hookLine": "Ensure every journey is safe, secure, and seamless. truID helps airlines, railways, ride-hailing platforms, and logistics providers verify passengers, drivers, and staff in seconds using intelligent facial recognition and biometric validation. By reducing fraud, supporting compliance, and streamlining operations, truID delivers a smooth travel experience built on trust and safety.",
+      "icon": "Plane",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Transportation operators face rising challenges in passenger safety, regulatory compliance, and operational efficiency. truID provides fast, accurate identity verification for airlines, railways, ride-hailing platforms, and logistics providers. Using AI-powered facial recognition, document authentication, and biometric validation, truID helps transportation providers onboard passengers, verify drivers, and manage staff securely. This reduces fraud, ensures compliance, and delivers a seamless travel experience.",
+        "cta": "Secure Your Transportation Operations"
+      },
+      "solutions": [
+        {
+          "title": "Passenger Verification",
+          "description": "Fast and secure passenger identity verification",
+          "features": [
+            "Verify passengers during booking or check-in",
+            "Prevent identity fraud in ticketing and boarding",
+            "Quick verification for seamless travel experience"
+          ]
+        },
+        {
+          "title": "Driver & Crew Onboarding",
+          "description": "Verify transportation staff and contractors",
+          "features": [
+            "Confirm driver identities for ride-hailing or logistics services",
+            "Ensure airline, railway, and fleet staff are verified before deployment",
+            "Reduce risk of impersonation or unauthorized access"
+          ]
+        },
+        {
+          "title": "Cargo & Logistics Verification",
+          "description": "Secure cargo handling and logistics operations",
+          "features": [
+            "Authenticate logistics personnel for secure cargo handling",
+            "Validate identity of contractors, warehouse staff, and delivery agents",
+            "Prevent fraud, theft, and unauthorized cargo access"
+          ]
+        },
+        {
+          "title": "Regulatory Compliance & Reporting",
+          "description": "Meet transport security requirements",
+          "features": [
+            "Ensure adherence to transport security regulations",
+            "Maintain tamper-proof digital audit trails",
+            "Enable fast reporting for authorities and compliance audits"
+          ]
+        },
+        {
+          "title": "Access Control & Safety Monitoring",
+          "description": "Control access to restricted transport areas",
+          "features": [
+            "Control access to restricted areas such as airports, stations, or depots",
+            "Combine biometric checks with IoT-enabled security systems",
+            "Enhance overall operational safety"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Faster & Frictionless Verification",
+          "description": "Verification in under 30 seconds",
+          "details": [
+            "Passenger, driver, and staff verification in under 30 seconds",
+            "Reduces delays and improves service reliability"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Lower Operational Costs",
+          "description": "No specialized biometric hardware needed",
+          "details": [
+            "No specialized biometric hardware needed",
+            "Automates manual checks and reduces staffing overhead",
+            "Streamlines logistics and travel operations"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Enhanced Safety & Fraud Prevention",
+          "description": "Detects fake IDs and stolen credentials",
+          "details": [
+            "Detects fake IDs, stolen credentials, and duplicate identities",
+            "Accurate face liveness and document verification",
+            "Prevents unauthorized access to vehicles, facilities, and cargo"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "Regulatory Compliance",
+          "description": "Complete digital audit trails",
+          "details": [
+            "Supports aviation, railway, and transport authority requirements",
+            "Complete digital audit trails for inspections and reporting"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Seamless Passenger & Staff Experience",
+          "description": "Works on smartphones, kiosks, and tablets",
+          "details": [
+            "Works on smartphones, kiosks, and tablets",
+            "Intuitive interface ensures easy verification for all users",
+            "Enables touchless, safe, and fast interactions"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "Transportation operators rely on truID for its accuracy, security, and ability to scale across large networks",
+        "features": [
+          {
+            "title": "Proven AI & Biometric Expertise",
+            "points": [
+              "Developed with advanced AI, computer vision, and biometric research",
+              "Optimized for diverse environmental conditions and demographics"
+            ]
+          },
+          {
+            "title": "Enterprise-Grade Accuracy",
+            "points": [
+              "High system accuracy",
+              "NIST-compliant fingerprint and facial recognition"
+            ]
+          },
+          {
+            "title": "Scalable & Reliable",
+            "points": [
+              "Millions of verifications can be processed in transport and logistics networks",
+              "High-volume deployments can be done in airports, railways, and ride-hailing"
+            ]
+          },
+          {
+            "title": "Secure & Compliant by Design",
+            "points": [
+              "End-to-end encryption, anti-tampering, and spoof detection",
+              "Secure cloud or on-premise deployment options",
+              "Continuous monitoring for anomalies and threats"
+            ]
+          },
+          {
+            "title": "Easy Integration & Support",
+            "points": [
+              "SDKs for mobile apps, kiosks, and web portals",
+              "Dedicated technical support for onboarding and integration"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "How long does verification take for passengers or drivers?",
+          "answer": "Most verifications are completed in under 30 seconds."
+        },
+        {
+          "question": "Is special hardware required?",
+          "answer": "No, truID works with smartphones, tablets, and kiosks."
+        },
+        {
+          "question": "Can it prevent fraudulent boarding or unauthorized staff access?",
+          "answer": "Yes, it detects fake IDs, duplicates, and spoof attempts accurately."
+        },
+        {
+          "question": "Can it integrate with booking, HR, or fleet management systems?",
+          "answer": "Yes, truID provides seamless integration with existing platforms."
+        },
+        {
+          "question": "Does it support cargo and logistics personnel verification?",
+          "answer": "Yes, all staff, contractors, and drivers can be verified with full audit logs."
+        }
+      ]
+    },
+    {
+      "id": "healthcare",
+      "slug": "healthcare",
+      "title": "Healthcare",
+      "subtitle": "Secure Patient & Staff Identity Verification for Healthcare Providers",
+      "hookLine": "Protect patients, staff, and sensitive medical data with fast, reliable identity verification. truID enables hospitals, clinics, telemedicine platforms, and health insurers to instantly verify patients, staff, and contractors using AI-driven facial recognition, biometrics, and document checks. It prevents identity fraud, ensures compliance, and streamlines workflows for safer, more trusted healthcare.",
+      "icon": "Heart",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Healthcare providers face growing challenges in identity fraud, patient safety, and operational efficiency. truID enables hospitals, clinics, telemedicine platforms, and health insurers to verify patients, staff, and contractors quickly and accurately. Using AI-powered facial recognition, biometric verification, and document authentication, truID reduces medical identity fraud, ensures secure onboarding, and streamlines patient and staff workflows.",
+        "cta": "Start Secure Healthcare Identity Verification"
+      },
+      "solutions": [
+        {
+          "title": "Patient Onboarding & Telemedicine Verification",
+          "description": "Secure patient identity verification",
+          "features": [
+            "Verify patients remotely for telehealth consultations",
+            "Authenticate identities during hospital admissions or registrations",
+            "Reduce medical identity fraud and duplicate records"
+          ]
+        },
+        {
+          "title": "Staff & Contractor Verification",
+          "description": "Healthcare workforce identity verification",
+          "features": [
+            "Validate healthcare professionals, temporary staff, and contractors",
+            "Ensure credentials are authentic before granting access to systems or facilities",
+            "Enhance workforce safety and accountability"
+          ]
+        },
+        {
+          "title": "Insurance & Claims Verification",
+          "description": "Prevent insurance fraud",
+          "features": [
+            "Authenticate patient identities for insurance enrollment",
+            "Prevent fraudulent claims using identity verification",
+            "Streamline insurance approval processes"
+          ]
+        },
+        {
+          "title": "Access Control & Secure Data Management",
+          "description": "Control access to sensitive areas and data",
+          "features": [
+            "Control access to restricted areas like pharmacies, labs, and operating rooms",
+            "Link biometric verification to patient and staff management systems",
+            "Ensure only authorized personnel access sensitive data"
+          ]
+        },
+        {
+          "title": "Audit Trails & Monitoring",
+          "description": "Digital recordkeeping and compliance monitoring",
+          "features": [
+            "Maintain secure digital records of verification events",
+            "Monitor for anomalies or unusual activity",
+            "Support internal audits and operational oversight"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Rapid & Seamless Verification",
+          "description": "Identity verification in seconds",
+          "details": [
+            "Identity verification in seconds",
+            "Reduces patient wait times and accelerates staff onboarding"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Lower Operational Burden",
+          "description": "No special hardware required",
+          "details": [
+            "No special hardware required",
+            "Automates manual identity checks",
+            "Reduces administrative workload"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Enhanced Safety & Fraud Prevention",
+          "description": "Protects against medical identity fraud",
+          "details": [
+            "Detects fake IDs, forged documents, and duplicate identities",
+            "Protects against medical identity fraud and unauthorized access",
+            "Accurate biometric validation ensures reliability"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "Comprehensive Digital Recordkeeping",
+          "description": "Secure, tamper-proof audit trails",
+          "details": [
+            "Secure, tamper-proof audit trails",
+            "Tracks all verification events for operational oversight"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Smooth Patient & Staff Experience",
+          "description": "Works on smartphones, tablets, and kiosks",
+          "details": [
+            "Works on smartphones, tablets, and kiosks",
+            "Simple, guided verification workflow",
+            "Enables contactless and safe interactions"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "Healthcare organizations rely on truID for its security, reliability, and global adaptability",
+        "features": [
+          {
+            "title": "Advanced AI & Biometric Expertise",
+            "points": [
+              "Developed with cutting-edge AI and computer vision technology",
+              "Optimized for diverse environments and user demographics"
+            ]
+          },
+          {
+            "title": "Proven Reliability",
+            "points": [
+              "Trusted in high-volume healthcare operations",
+              "Performs well in real-world scenarios"
+            ]
+          },
+          {
+            "title": "Secure by Design",
+            "points": [
+              "End-to-end encrypted and tamper-resistant systems",
+              "Secure deployment options for cloud or on-premise setups",
+              "Continuous monitoring for anomalies"
+            ]
+          },
+          {
+            "title": "Seamless Integration & Support",
+            "points": [
+              "SDKs for mobile apps, web portals, and kiosks",
+              "Dedicated technical and integration support for healthcare teams"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "How fast is patient or staff verification?",
+          "answer": "Most verifications are completed within seconds."
+        },
+        {
+          "question": "Is special hardware required?",
+          "answer": "No, verification works on smartphones, tablets, and kiosks."
+        },
+        {
+          "question": "Can it prevent medical identity fraud?",
+          "answer": "Yes, it detects forged IDs, duplicates, and spoofing attempts reliably."
+        },
+        {
+          "question": "Can it integrate with hospital or telemedicine systems?",
+          "answer": "Yes, truID integrates seamlessly with existing healthcare platforms."
+        },
+        {
+          "question": "Does it support remote telemedicine patient verification?",
+          "answer": "Yes, it enables secure and fast remote verification for telehealth consultations."
+        }
+      ]
+    },
+    {
+      "id": "human-resources",
+      "slug": "human-resources",
+      "title": "Human Resources",
+      "subtitle": "Secure Workforce Identity Verification & Digital Hiring",
+      "hookLine": "Hire smarter and safer with instant identity verification. truID enables HR teams to quickly verify candidates and employees using AI-driven facial recognition, document checks, and biometrics, reducing fraud, speeding up onboarding, and building trust across digital workplaces.",
+      "icon": "Users",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Human Resource teams face increasing challenges in remote hiring, workforce fraud, and compliance across distributed teams. truID enables organizations to verify candidate and employee identities quickly and reliably during recruitment, onboarding, and ongoing workforce management. By using AI-powered facial verification, document authentication, and biometric validation, truID helps HR teams reduce hiring risks, improve onboarding speed, and build trust in digital-first workplaces.",
+        "cta": "Secure Your Hiring & Onboarding"
+      },
+      "solutions": [
+        {
+          "title": "Candidate Identity Verification",
+          "description": "Verify job applicants during interviews and assessments",
+          "features": [
+            "Verify job applicants during interviews and assessments",
+            "Prevent impersonation in remote hiring",
+            "Ensure one identity per candidate"
+          ]
+        },
+        {
+          "title": "Employee Onboarding",
+          "description": "Digital identity verification for new hires",
+          "features": [
+            "Digital identity verification for new hires",
+            "Validate identity before system and facility access",
+            "Reduce paperwork and manual checks"
+          ]
+        },
+        {
+          "title": "Remote & Global Workforce Verification",
+          "description": "Secure onboarding for remote and freelance workers",
+          "features": [
+            "Secure onboarding for remote and freelance workers",
+            "Verify identities across regions and time zones",
+            "Support distributed and hybrid work models"
+          ]
+        },
+        {
+          "title": "Access Control & Workforce Security",
+          "description": "Verify employees before granting access",
+          "features": [
+            "Verify employees before granting access to systems and locations",
+            "Prevent unauthorized access to internal tools and data"
+          ]
+        },
+        {
+          "title": "Contractor & Third-Party Verification",
+          "description": "Authenticate vendors and temporary staff",
+          "features": [
+            "Authenticate vendors, consultants, and temporary staff",
+            "Maintain accountability across the extended workforce"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Faster Hiring & Onboarding",
+          "description": "Verify candidates and employees in seconds",
+          "details": [
+            "Verify candidates and employees in seconds",
+            "Reduce time-to-hire and onboarding delays"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Reduced Hiring Fraud",
+          "description": "Prevent resume fraud and identity impersonation",
+          "details": [
+            "Prevent resume fraud, identity impersonation, and duplicate profiles",
+            "Strengthen trust in remote hiring processes"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Lower HR Operational Load",
+          "description": "Automates manual verification tasks",
+          "details": [
+            "No special hardware required",
+            "Automates manual verification tasks",
+            "Reduces HR administrative overhead"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Improved Employee Experience",
+          "description": "Smooth, digital-first onboarding journey",
+          "details": [
+            "Smooth, digital-first onboarding journey",
+            "Simple and guided verification process"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "Reliable Workforce Records",
+          "description": "Secure digital verification logs",
+          "details": [
+            "Secure digital verification logs",
+            "Better visibility and accountability across HR operations"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "HR leaders choose truID for secure and scalable workforce verification",
+        "features": [
+          {
+            "title": "Built for Modern HR Workflows",
+            "points": [
+              "Designed for digital recruitment and remote onboarding",
+              "Works seamlessly across mobile, web, and enterprise platforms"
+            ]
+          },
+          {
+            "title": "Reliable & Secure by Design",
+            "points": [
+              "Encrypted and tamper-resistant verification processes",
+              "Continuous monitoring for anomalies"
+            ]
+          },
+          {
+            "title": "Scalable for Growing Teams",
+            "points": [
+              "Suitable for startups, enterprises, and global teams",
+              "Handles high-volume hiring and onboarding with ease"
+            ]
+          },
+          {
+            "title": "Easy Integration & Support",
+            "points": [
+              "SDKs and APIs for HRMS, ATS, and enterprise systems",
+              "Dedicated technical support and onboarding assistance"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "Can truID be used for remote hiring?",
+          "answer": "Yes, truID is ideal for verifying candidates during remote interviews and assessments."
+        },
+        {
+          "question": "Does it require special hardware?",
+          "answer": "No, verification works on smartphones, laptops, and tablets."
+        },
+        {
+          "question": "Can contractors and freelancers be verified?",
+          "answer": "Yes, truID supports verification for full-time staff, contractors, and third parties."
+        },
+        {
+          "question": "Can truID integrate with HR systems?",
+          "answer": "Yes, it integrates with existing HRMS and applicant tracking systems."
+        },
+        {
+          "question": "Is employee data secure?",
+          "answer": "Yes, truID uses secure, encrypted processes to protect identity data."
+        }
+      ]
+    },
+    {
+      "id": "travel-security",
+      "slug": "travel-security",
+      "title": "Travel & Security",
+      "subtitle": "Trusted Identity Verification for Safer, Seamless Journeys",
+      "hookLine": "Secure every journey with fast, reliable identity verification that keeps travelers moving. truID helps airports, airlines, border services, hospitality providers, and security operators quickly verify passengers and staff using AI-driven facial recognition, document checks, and biometric validation. It enhances security while ensuring smooth, touchless travel experiences.",
+      "icon": "Shield",
+      "primaryColor": "#3b82f6",
+      "secondaryColor": "#1d4ed8",
+      "lightColor": "#dbeafe",
+      "overview": {
+        "title": "Overview",
+        "description": "Travel and security organizations face constant pressure to balance safety, speed, and passenger experience. truID enables airports, airlines, border services, hospitality providers, and private security operators to verify traveler and staff identities quickly and reliably. Using AI-driven facial verification, document authentication, and biometric validation, truID strengthens security while enabling smooth, touchless travel experiences.",
+        "cta": "Secure Travel & Access Operations"
+      },
+      "solutions": [
+        {
+          "title": "Traveler Identity Verification",
+          "description": "Verify travelers during booking, check-in, or entry",
+          "features": [
+            "Verify travelers during booking, check-in, or entry",
+            "Reduce identity fraud and impersonation",
+            "Enable faster, touchless travel flows"
+          ]
+        },
+        {
+          "title": "Access Control & Restricted Areas",
+          "description": "Control access to secure zones",
+          "features": [
+            "Control access to airports, terminals, lounges, and secure zones",
+            "Verify identities before granting entry to sensitive locations"
+          ]
+        },
+        {
+          "title": "Border & Immigration Support",
+          "description": "Assist identity verification during entry and exit",
+          "features": [
+            "Assist identity verification during entry and exit processes",
+            "Reduce manual checks and processing time"
+          ]
+        },
+        {
+          "title": "Staff & Crew Verification",
+          "description": "Verify airline crew, airport staff, and security personnel",
+          "features": [
+            "Verify airline crew, airport staff, and security personnel",
+            "Prevent unauthorized access and insider threats"
+          ]
+        },
+        {
+          "title": "Event & Venue Security",
+          "description": "Verify attendees and staff for high-security events",
+          "features": [
+            "Verify attendees and staff for high-security events",
+            "Ensure safe access management at large venues"
+          ]
+        }
+      ],
+      "benefits": [
+        {
+          "icon": "Zap",
+          "title": "Faster Processing & Reduced Queues",
+          "description": "Identity verification completed in seconds",
+          "details": [
+            "Identity verification completed in seconds",
+            "Smoother passenger flow and reduced congestion"
+          ]
+        },
+        {
+          "icon": "Shield",
+          "title": "Enhanced Security & Fraud Prevention",
+          "description": "Detect forged documents and impersonation attempts",
+          "details": [
+            "Detect forged documents and impersonation attempts",
+            "Prevent unauthorized access to secure areas"
+          ]
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Lower Operational Complexity",
+          "description": "No special hardware required",
+          "details": [
+            "No special hardware required",
+            "Reduces reliance on manual identity checks"
+          ]
+        },
+        {
+          "icon": "Smile",
+          "title": "Touchless & User-Friendly Experience",
+          "description": "Minimal user interaction required",
+          "details": [
+            "Minimal user interaction required",
+            "Works across smartphones, kiosks, and tablets"
+          ]
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "Reliable Audit & Monitoring",
+          "description": "Secure digital logs for identity checks",
+          "details": [
+            "Secure digital logs for identity checks",
+            "Better visibility for security teams"
+          ]
+        }
+      ],
+      "whyTrust": {
+        "title": "Why Trust truID",
+        "subtitle": "Travel and security organizations choose truID for reliability and scale",
+        "features": [
+          {
+            "title": "Designed for High-Security Environments",
+            "points": [
+              "Built for real-world travel and security use cases",
+              "Performs reliably in high-traffic environments"
+            ]
+          },
+          {
+            "title": "Secure by Design",
+            "points": [
+              "Encrypted, tamper-resistant verification processes",
+              "Continuous monitoring for suspicious activity"
+            ]
+          },
+          {
+            "title": "Scalable & Flexible",
+            "points": [
+              "Suitable for airports, airlines, venues, and security agencies",
+              "Handles large volumes without disruption"
+            ]
+          },
+          {
+            "title": "Easy Integration & Support",
+            "points": [
+              "Integrates with travel systems, access control platforms, and kiosks",
+              "Dedicated technical support for deployment and operations"
+            ]
+          }
+        ]
+      },
+      "faqs": [
+        {
+          "question": "Can truID be used for airport or venue access control?",
+          "answer": "Yes, it supports secure access verification for restricted and public areas."
+        },
+        {
+          "question": "Does it work for large passenger volumes?",
+          "answer": "Yes, truID is designed to handle high-traffic environments efficiently."
+        },
+        {
+          "question": "Is special hardware required?",
+          "answer": "No, it works with existing smartphones, tablets, and kiosks."
+        },
+        {
+          "question": "Can staff and crew be verified?",
+          "answer": "Yes, truID verifies employees, contractors, and security personnel."
+        },
+        {
+          "question": "Does it support touchless verification?",
+          "answer": "Yes, truID enables fast, contactless identity verification."
+        }
+      ]
+    }
+  ]
+}

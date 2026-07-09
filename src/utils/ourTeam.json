@@ -1,0 +1,195 @@
+[
+  {
+    "name": "Dr Abid Rafique",
+    "department": "Chief Executive Officer",
+    "description": "",
+    "image": "/team/abid-rafique.jpg",
+    "email": "abid.rafique@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/dr-abid-rafique-9b678a225/",
+    "tag": "Executive Team"
+  },
+  {
+    "name": "Sohail Abbasi",
+    "department": "Chief Operating Officer",
+    "description": "",
+    "image": "/team/shoail-abbasi.jpg",
+    "email": "sohail.abbasi@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/sohail-abbasi-6911994/",
+    "tag": "Executive Team"
+  },
+  {
+    "name": "Dr Khalid Bashir",
+    "department": "Chief Technology Officer",
+    "description": "",
+    "image": "/team/khalid-bashir.png",
+    "email": "info@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/khalid-bashir-a7509014/",
+    "tag": "Executive Team",
+    "duplicateEntry": true
+  },
+  {
+    "name": "Zulifqar Qazilbash",
+    "department": "Chief Business Officer",
+    "description": "",
+    "image": "/team/zulifqar-qazilbash.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Executive Team"
+  },
+  {
+    "name": "Dr Sikandar Amin",
+    "department": "Chief Engineer",
+    "description": "",
+    "image": "/team/sikandar_amin.png",
+    "email": "info@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/dr-sikandar-amin-b5842b12/",
+    "tag": "R&D Team",
+    "duplicateEntry": true
+  },
+  {
+    "name": "Dr. Wajahat Hussain",
+    "department": "AI/ML Consultant",
+    "description": "",
+    "image": "/team/wajahat.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "R&D Team"
+  },
+  {
+    "name": "Tufail Zaman Khattak",
+    "department": "Director Product",
+    "description": "",
+    "image": "/team/tufail-zaman.JPG",
+    "email": "tufail.zaman@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/tufail-zaman",
+    "tag": "Operations & Management Team"
+  },
+  {
+    "name": "Aeman Iqbal Khan",
+    "department": "Head of HR",
+    "description": "",
+    "image": "/team/aeman.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Operations & Management Team"
+  },
+  {
+    "name": "Hamza Khalid",
+    "department": "Director Finance",
+    "description": "",
+    "image": "/team/hamza.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Operations & Management Team"
+  },
+
+  {
+    "name": "Abrar Ahmed",
+    "department": "Engineering Lead ",
+    "description": "",
+    "image": "/team/abrar-ahmed.jpg",
+    "email": "ab.ahmed911@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/abrar-ahmed-66a793135/",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Hammad Hussain",
+    "department": "iOS Developer",
+    "description": "",
+    "image": "/team/hammad.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Syed Afzal Hussain",
+    "department": "Full Stack Developer",
+    "description": "",
+    "image": "/team/syed.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Husnain Mehdi",
+    "department": "iOS Developer",
+    "description": "",
+    "image": "/team/husnain.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Muhammad Hassaan",
+    "department": "Platform Engineer",
+    "description": "",
+    "image": "/team/muhammad-hassaan.jpeg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Muneed ur Rehman",
+    "department": "QA Engineer",
+    "description": "",
+    "image": "/team/muneed.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "Engineering Team"
+  },
+  {
+    "name": "Subhan Tariq",
+    "department": "Dev Ops Lead",
+    "description": "",
+    "image": "/team/subhan-tariq.jpg",
+    "email": "subhan.tariq@truid.ai",
+    "linkedin": "https://www.linkedin.com/in/subhan-tariq-8283149b/",
+    "tag": "R&D Team"
+  },
+  {
+    "name": "Azhan Naqeeb",
+    "department": "Computer Vision Engineer",
+    "description": "",
+    "image": "/team/azhan-naqeeb.jpeg",
+    "email": "azhan.naqeeb@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/azhannaqeeb",
+    "tag": "R&D Team"
+  },
+  {
+    "name": "Muhammad Abdullah Khalid",
+    "department": "Computer Vision Engineer",
+    "description": "",
+    "image": "/team/abdullah-khalid.jpeg",
+    "email": "makhalid1999@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/makhalid1999",
+    "tag": "R&D Team"
+  },
+  {
+    "name": "Ismail ",
+    "department": " AI/ML Engineer",
+    "description": "",
+    "image": "/team/ismail.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "AI/ML Team"
+  },
+  {
+    "name": "Hadiya Sajjad",
+    "department": "Research Assistant",
+    "description": "",
+    "image": "/team/hadiya.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "AI/ML Team"
+  },
+  {
+    "name": "Hassan Akhtar",
+    "department": "Research Assistant",
+    "description": "",
+    "image": "/team/hassan.jpg",
+    "email": "",
+    "linkedin": "#",
+    "tag": "AI/ML Team"
+  }
+
+]

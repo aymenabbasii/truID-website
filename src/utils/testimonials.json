@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "quote": "As their branding partner, our work across strategy, design, and content has been smooth, professional, and highly impactful. truID's clarity and trust in our process enabled us to shape a future-ready brand that reflects their vision.",
+        "name": "Saqib Malik",
+        "position": "Chief Executive Officer",
+        "company": "Takhleeq.ai",
+        "avatar": "/testimonials/takhleeq.jpg"
+    },
+    {
+        "id": 2,
+        "quote": "With the integration of truID's software, we are able to use cutting-edge identity verification in our customer onboarding process making it efficient and user-friendly. The use of truID's technology has also helped us increase customer confidence in our services.",
+        "name": "Jawad Mehmood",
+        "position": "Chief Operating Officer",
+        "company": "MyTM",
+        "avatar": "/testimonials/mytm.jpg"
+    }
+]

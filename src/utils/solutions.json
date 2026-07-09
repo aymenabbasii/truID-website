@@ -1,0 +1,506 @@
+{
+  "solutions": [
+    {
+      "id": "face-liveness-detection",
+      "slug": "face-liveness-detection",
+      "title": "Face Liveness Detection",
+      "subtitle": "Passive liveness verification with advanced AI anti-spoofing",
+      "icon": "Camera",
+      "heroImage": "/Face Liveness.png",
+      "phone": "/steps/check.jpg",
+      "overview": {
+        "title": "Overview",
+        "description": "truID provides face liveness detection to verify that a real human is present during digital identity verification. The solution is based on passive liveness detection, allowing users to complete verification without performing gestures such as blinking, smiling, or nodding. "
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Users receive a real-time, secure and effortless matching result within seconds.",
+        "steps": [
+          {
+            "number": 1,
+            "title": "Selfie Capture",
+            "description": "Hold your face in front of the camera frame.",
+            "detail": "The user presents his/her face in the camera frame and captures a selfie. No gestures are required."
+          },
+          {
+            "number": 2,
+            "title": "Passive Liveness Analysis",
+            "description": "Passive Liveness Analysis",
+            "detail": "The system analyzes the captured image using AI to detect micro-expressions, skin texture, and reflections."
+          },
+          {
+            "number": 3,
+            "title": "Spoofing Detection",
+            "description": "Spoofing Detection",
+            "detail": "truID checks for image-based and video-based spoof attempts and rejects fraudulent inputs."
+          },
+          {
+            "number": 4,
+            "title": "Real-Time User Guidance",
+            "description": "Real-Time User Guidance",
+            "detail": "If the face is too far, tilted, or captured under poor lighting, the interface guides the user to adjust positioning."
+          },
+          {
+            "number": 5,
+            "title": "Liveness Classification",
+            "description": "Liveness Classification",
+            "detail": "The system automatically classifies the face as genuine or spoofed and provides the verification result."
+          }
+        ]
+      },
+      "keyFeatures": [
+        {
+          "icon": "Sparkles",
+          "title": "Passive Liveness Detection",
+          "description": "-truID uses passive liveness detection to remove user gestures, reducing friction and preventing image or video spoofing."
+        },
+        {
+          "icon": "Zap",
+          "title": "AI-Driven Facial Analysis",
+          "description": "The liveness engine analyzes the face in real time to verify genuine users, preventing spoofing and ensuring secure, seamless verification."
+        },
+        {
+          "icon": "Target",
+          "title": "Friction-Free Verification Flow",
+          "description": "truID provides a hands-off verification experience that is faster, intuitive, and secure without requiring user actions or instructions."
+        },
+        {
+          "icon": "Users",
+          "title": "Real-Time User Guidance",
+          "description": "truID offers an intuitive interface that guides users and provides real-time assistance for distance, angle, or lighting issues to ensure accurate image capture."
+        },
+        {
+          "icon": "TrendingUp",
+          "title": "High Accuracy and Proven Performance",
+          "description": "truID’s face liveness detection reliably prevents fraud while minimizing user friction, ensuring strong security with a smooth onboarding experience."
+        },
+        {
+          "icon": "Lock",
+          "title": "Adaptable to Diverse User Environments",
+          "description": "The system works reliably in diverse real-world environments, enabling verification without special setup or controlled conditions."
+        }
+      ],
+      "benefits": [
+        "Seamless, gesture-free user experience through passive liveness detection",
+        "Resistance to image and video spoofing attacks",
+        "Accurate liveness detection using AI analysis of facial micro-expressions, skin texture, and reflections",
+        "Reliable performance across varying lighting conditions",
+        "Reduced user drop-off due to simple and intuitive verification flow",
+        "Strong fraud prevention with proven accuracy metrics"
+      ],
+      "useCases": [
+        {
+          "title": "Digital Customer Onboarding",
+          "description": "truID enables secure face liveness verification during remote onboarding, allowing organizations to verify customers without physical branch visits."
+        },
+        {
+          "title": "In-App Identity Verification",
+          "description": "The liveness detection capability is embedded directly into mobile applications, allowing users to verify their identity by taking a simple selfie within the app."
+        },
+        {
+          "title": "Fraud Prevention in Remote Verification",
+          "description": "By resisting image and video spoofing, truID helps organizations prevent identity fraud in remote verification workflows."
+        }
+      ],
+      "whyChoose": {
+        "title": "Why Choose truID for Face Liveness Detection",
+        "description": "truID provides passive and gesture free face liveness detection that securely verifies real users, resists image and video spoofing, adapts to different environments, and delivers accurate verification with a smooth and intuitive user experience for digital identity workflows."
+      }
+    },
+    {
+      "id": "id-document-authenticity",
+      "slug": "id-document-authenticity",
+      "title": "ID Document Authenticity Check",
+      "subtitle": "AI-powered verification of Pakistani identity documents",
+      "icon": "Shield",
+      "heroImage": "/ID Doc.png",
+      "phone": "/steps/id.png",
+      "overview": {
+        "title": "Overview",
+        "description": "truID provides automated ID document authenticity checks to verify Pakistani identity documents during digital onboarding and identity verification. The solution combines AI-based document classification with multi-stage authenticity validation to determine whether a document is genuine or fraudulent. "
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Users receive a real-time, secure, and effortless verification result within seconds.",
+        "steps": [
+          {
+            "number": 1,
+            "title": "ID Document Capture",
+            "description": "ID Document Capture",
+            "detail": "The user brings the ID document in front of the mobile capture algorithm to detect the document and automatically captures it. The document image is passed to the truID verification engine for analysis."
+          },
+          {
+            "number": 2,
+            "title": "Document Classification",
+            "description": "Document Classification",
+            "detail": "truID first determines whether the captured image is an ID document. If it is, the system automatically identifies the document type, such as Smart CNIC, Urdu CNIC, NICOP, or POC. Documents outside these categories are marked as unsupported."
+          },
+          {
+            "number": 3,
+            "title": "Template Matching",
+            "description": "Template Matching & Security Feature Inspection",
+            "detail": "The system checks whether the document matches the correct template of a standard Pakistani ID card. Only documents that meet template requirements proceed to further verification."
+          },
+          {
+            "number": 4,
+            "title": "Deep Security Feature Inspection",
+            "description": "Deep Security Feature Inspection",
+            "detail": "truID performs detailed inspection of embedded security features to verify authenticity and detect potential tampering or misuse."
+          },
+          {
+            "number": 5,
+            "title": "Multi-Stage AI Validation",
+            "description": "Multi-Stage AI Validation",
+            "detail": "Multiple AI models work together to confirm that the document is genuine and unaltered. This layered validation eliminates the chances of photocopies, colored copies, or fake ID cards passing through the system."
+          }
+        ]
+      },
+      "keyFeatures": [
+        {
+          "icon": "FileSearch",
+          "title": "Automatic ID Document Classification",
+          "description": "truID automatically classifies captured ID documents and supports all major Pakistani identity cards, including Smart CNIC, Urdu CNIC, NICOP, and POC."
+        },
+        {
+          "icon": "Layers",
+          "title": "AI-Based Template Matching",
+          "description": "The system first verifies whether the captured document matches the template of a standard Pakistani ID card."
+        },
+        {
+          "icon": "Eye",
+          "title": "Deep Inspection of Security Features",
+          "description": "truID performs detailed inspection of embedded security features, including color-changing and disappearing holograms, silhouettes, logos, and textual elements."
+        },
+        {
+          "icon": "GitBranch",
+          "title": "Multi-Stage AI Verification",
+          "description": "Multiple AI models are used to determine whether the document is an ID card, identify its type, and verify the authenticity of its security features."
+        },
+        {
+          "icon": "CheckCircle2",
+          "title": "High Automation with Manual Review Support",
+          "description": "The verification process is fully automated in 98 percent of cases. In the remaining 2 percent, where there is any uncertainty, the document is flagged for manual verification to ensure correctness and compliance."
+        }
+      ],
+      "benefits": [
+        "Automatic capturing and classification of ID documents",
+        "Support for all major Pakistani identity cards, including Smart CNIC, Urdu CNIC, NICOP, and POC",
+        "Identification of unsupported documents outside the supported ID types",
+        "AI-based template matching to validate standard ID formats",
+        "Deep inspection of security features",
+        "Multi-stage AI validation to confirm document originality",
+        "Detection and rejection of photocopies, colored copies, and counterfeit ID cards",
+        "Fully automated verification"
+      ],
+      "useCases": [
+        {
+          "title": "Digital Customer Onboarding",
+          "description": "Verification of Pakistani identity documents during remote onboarding without requiring physical checks."
+        },
+        {
+          "title": "In-App Identity Verification",
+          "description": "ID document authenticity checks embedded directly within mobile applications using smartphone cameras."
+        },
+        {
+          "title": "Fraud Prevention and Compliance",
+          "description": "Prevention of identity fraud through automated detection of fake, altered, or unsupported ID documents."
+        }
+      ],
+      "whyChoose": {
+        "title": "Why Choose truID for ID Document Authenticity",
+        "description": "truID delivers reliable ID document verification through automatic classification and authenticity checks using locally trained models designed for Pakistani identity documents, ensuring accurate and secure verification at scale."
+      }
+    },
+    {
+      "id": "photo-id-selfie-matching",
+      "slug": "photo-id-selfie-matching",
+      "title": "Photo ID Selfie Matching",
+      "subtitle": "AI-powered matching between ID photos and live selfies",
+      "icon": "UserCheck",
+      "heroImage": "/ID-Selfie-Matching.png",
+      "phone": "/steps/selfie.jpg",
+      "overview": {
+        "title": "Overview",
+        "description": "truID provides secure and accurate matching of the photo on an ID document with the individual's live selfie. The system leverages AI to account for natural variations, including aging, skin color differences, changes in hair, and the presence of glasses or facial hair. "
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Users receive a real-time, secure, and effortless verification result within seconds.",
+        "steps": [
+          {
+            "number": 1,
+            "title": "Capture ID Photo",
+            "description": "Capture ID Photo",
+            "detail": "The user captures an image of their ID document using a smartphone camera."
+          },
+          {
+            "number": 2,
+            "title": "Capture Live Selfie",
+            "description": "Capture Live Selfie",
+            "detail": "The user captures a live selfie directly within the mobile application."
+          },
+          {
+            "number": 3,
+            "title": "Feature Extraction",
+            "description": "Feature Extraction & Comparison",
+            "detail": "Neural networks create intelligent embeddings from both the ID photo and the live selfie, encoding the critical facial features."
+          },
+          {
+            "number": 4,
+            "title": "Comparison and Matching",
+            "description": "Comparison and Matching",
+            "detail": "A comparison neural network evaluates the embeddings to detect differences and determine if the ID photo matches the live selfie."
+          },
+          {
+            "number": 5,
+            "title": "Verification Result",
+            "description": "Verification Result",
+            "detail": "The system provides a confirmation of the match, ensuring the individual is the same as shown on the ID."
+          }
+        ]
+      },
+      "keyFeatures": [
+        {
+          "icon": "ScanFace",
+          "title": "ID Photo to Live Selfie Matching",
+          "description": "truID compares the photo on an ID document directly with the live selfie captured during verification."
+        },
+        {
+          "icon": "Brain",
+          "title": "AI-Powered Embeddings and Comparison",
+          "description": "The system uses neural networks to create embeddings from the ID photo and live selfie and compares them to accurately detect differences."
+        },
+        {
+          "icon": "Shuffle",
+          "title": "Invariance to Natural Changes",
+          "description": " The matching process accounts for natural changes in appearance, including facial hair, glasses or accessories, and aging."
+        },
+        {
+          "icon": "CheckCheck",
+          "title": "Seamless and Accurate Verification",
+          "description": " By accounting for these variations, truID ensures a reliable match between the ID photo and the live selfie without compromising on user experience."
+        }
+      ],
+      "benefits": [
+        "ID Photo to Live Selfie Matching",
+        "AI-Powered Embeddings and Comparison",
+        "Invariance to Natural Changes including facial hair changes, addition of glasses or other facial accessories, and aging or natural changes in appearance",
+        "Seamless and Accurate Verification"
+      ],
+      "useCases": [
+        {
+          "title": "Digital Customer Onboarding",
+          "description": "Verify the user remotely without requiring physical presence."
+        },
+        {
+          "title": "In-App Identity Verification",
+          "description": "Embedded selfie matching within mobile applications."
+        },
+        {
+          "title": "Fraud Prevention",
+          "description": "Detect impersonation or fraudulent attempts during remote verification."
+        }
+      ],
+      "whyChoose": {
+        "title": "Why Choose truID for Photo ID Selfie Matching",
+        "description": " truID delivers accurate, AI-powered matching between ID photos and live selfies, accounting for natural changes in appearance, ensuring reliable verification, seamless user experience, and strong fraud prevention by combining advanced neural network-based embeddings and comparison techniques."
+      }
+    },
+    {
+      "id": "accurate-ocr",
+      "slug": "accurate-ocr",
+      "title": "Accurate OCR for Text Extraction",
+      "subtitle": "AI-powered text extraction from ID documents",
+      "icon": "FileText",
+      "heroImage": "/OCR.png",
+      "phone": "/steps/extraction.png",
+      "overview": {
+        "title": "Overview",
+        "description": "truID leverages AI and computer vision to perform automatic text extraction and parsing from ID documents. The solution supports both English and Urdu languages and converts raw text into structured key-value pairs for semantic understanding. This ensures accurate data capture while minimizing manual entry during digital verification."
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Users receive a real-time, secure, and effortless verification result within seconds.",
+        "steps": [
+          {
+            "number": 1,
+            "title": "Capture ID Document",
+            "description": "Capture ID Document",
+            "detail": "The user captures an image of their ID document using a smartphone camera."
+          },
+          {
+            "number": 2,
+            "title": "Raw Text Extraction",
+            "description": "Raw Text Extraction",
+            "detail": "truID extracts raw text characters from the captured image using AI-powered OCR."
+          },
+          {
+            "number": 3,
+            "title": "Cleaning and Validation",
+            "description": "Cleaning, Validation & Key-Value Pair Generation",
+            "detail": "The system cleans the extracted text and performs validation checks to ensure accuracy."
+          },
+          {
+            "number": 4,
+            "title": "Key-Value Pair Generation",
+            "description": "Key-Value Pair Generation",
+            "detail": "Extracted text is converted into structured key-value pairs, matching the document's geometry and layout."
+          },
+          {
+            "number": 5,
+            "title": "Data Delivery",
+            "description": "Data Delivery",
+            "detail": "Structured data is returned to the application for further processing, verification, or storage, with Urdu text sent securely to a third-party OCR API when needed."
+          }
+        ]
+      },
+      "keyFeatures": [
+        {
+          "icon": "Type",
+          "title": "Automatic Text Extraction and Parsing",
+          "description": "The system extracts raw characters from ID documents and converts them into structured key-value pairs, ensuring semantic understanding of critical information."
+        },
+        {
+          "icon": "Languages",
+          "title": "Multi-Language Support",
+          "description": "truID supports English OCR offline and Urdu via a secure third-party API, sending only masked portions of the document to protect privacy."
+        },
+        {
+          "icon": "BadgeCheck",
+          "title": "Validation and Accuracy",
+          "description": "The OCR process extracts text and verifies that each data element is correctly positioned, using geometry and layout checks to ensure accurate extraction and organization of all document information."
+        },
+        {
+          "icon": "Gauge",
+          "title": "Efficiency and Ease of Use",
+          "description": " By automating text extraction, truID reduces manual data entry, saving time and preventing errors during identity verification workflows."
+        }
+      ],
+      "benefits": [
+        "Automatic Text Extraction and Parsing",
+        "Multi-Language Support for English and Urdu",
+        "Validation and Accuracy through cleaning and validation checks",
+        "Efficiency and Ease of Use by automating text extraction"
+      ],
+      "useCases": [
+        {
+          "title": "Digital Customer Onboarding",
+          "description": "Automatic extraction of user details from ID documents to streamline verification."
+        },
+        {
+          "title": "In-App Identity Verification",
+          "description": "OCR embedded within mobile applications for seamless text extraction."
+        },
+        {
+          "title": "Data Accuracy and Fraud Prevention",
+          "description": "Reduces errors and ensures reliable identity verification."
+        }
+      ],
+      "whyChoose": {
+        "title": "Why Choose truID for Accurate OCR",
+        "description": "truID provides accurate multi-language OCR for ID documents, converting text into validated key value pairs with English offline and Urdu via secure API, protecting user data and eliminating manual entry for efficient and privacy conscious identity verification."
+      }
+    },
+    {
+      "id": "touchless-fingerprint",
+      "slug": "touchless-fingerprint",
+      "title": "Touchless Fingerprint Biometrics",
+      "subtitle": "Smartphone-based fingerprint capture and verification",
+      "icon": "Fingerprint",
+      "heroImage": "/Biometric.png",
+      "phone": "/steps/online.png",
+      "overview": {
+        "title": "Overview",
+        "description": "truID enables instantaneous, touchless fingerprint capture using any standard smartphone camera. The system converts captured fingerprints into high-quality scans suitable for identity verification. "
+      },
+      "howItWorks": {
+        "title": "How It Works",
+        "subtitle": "Users receive a real-time, secure, and effortless verification result within seconds.",
+        "steps": [
+          {
+            "number": 1,
+            "title": "Capture Fingerprint",
+            "description": "Capture Fingerprint",
+            "detail": "Users capture their fingerprint through a smartphone camera using the truID mobile application."
+          },
+          {
+            "number": 2,
+            "title": "Quality Assessment",
+            "description": "Quality Assessment & Spoof Detection",
+            "detail": "The system evaluates the captured fingerprint using the NFIQ2 quality metric to ensure it meets the required threshold for verification."
+          },
+          {
+            "number": 3,
+            "title": "Spoof Detection",
+            "description": "Spoof Detection",
+            "detail": "truID automatically checks for spoof attempts using images or video to prevent fraudulent submissions."
+          },
+          {
+            "number": 4,
+            "title": "Format Conversion",
+            "description": "Format Conversion",
+            "detail": "Fingerprints are converted into WSQ or ISO formats, making them compatible with government verification systems."
+          },
+          {
+            "number": 5,
+            "title": "Database Matching",
+            "description": "Database Matching",
+            "detail": "The high-quality fingerprint scan is matched against established government databases, such as NADRA in Pakistan, to verify identity."
+          }
+        ]
+      },
+      "keyFeatures": [
+        {
+          "icon": "Smartphone",
+          "title": "Touchless Fingerprint Capture",
+          "description": "Fingerprints can be captured directly through a smartphone camera without physical contact, eliminating the need for specialized hardware."
+        },
+        {
+          "icon": "ShieldAlert",
+          "title": "Spoofing Prevention",
+          "description": "The system rejects fake fingerprints presented using photographs or videos, enhancing security in remote verification workflows."
+        },
+        {
+          "icon": "Award",
+          "title": "High-Quality Fingerprint Scans",
+          "description": "Captured fingerprints are converted into quality scans with a metric based on NFIQ2. The technology ensures that scans exceed the acceptable threshold for accurate matching with government databases."
+        },
+        {
+          "icon": "Database",
+          "title": "Compatibility with Government Databases",
+          "description": "Fingerprints are converted into WSQ or ISO formats, making them fully compatible for submission to NADRA and other verification authorities in Pakistan."
+        },
+        {
+          "icon": "Target",
+          "title": "Reliable Matching Performance",
+          "description": "truID ensures near-perfect matching with established government databases, supporting secure and accurate identity verification."
+        }
+      ],
+      "benefits": [
+        "Touchless Fingerprint Capture",
+        "Spoofing Prevention",
+        "High-Quality Fingerprint Scans based on NFIQ2",
+        "Compatibility with Government Databases in WSQ or ISO formats",
+        "Reliable Matching Performance"
+      ],
+      "useCases": [
+        {
+          "title": "Remote Customer Onboarding",
+          "description": "Capture fingerprints securely without physical scanners."
+        },
+        {
+          "title": "Government Verification Compliance",
+          "description": "Submit WSQ or ISO-formatted fingerprints to NADRA and other authorities."
+        },
+        {
+          "title": "Fraud Prevention",
+          "description": "Reject fake fingerprints and prevent identity spoofing."
+        }
+      ],
+      "whyChoose": {
+        "title": "Why Choose truID for Touchless Fingerprint Biometrics",
+        "description": "truID offers a fully touchless fingerprint verification solution that captures high quality scans via smartphone, prevents spoofing, ensures government database compatibility, and enables accurate identity verification without costly hardware, simplifying remote onboarding and compliance."
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+    "jobs": [
+        {
+            "id": "android-developer",
+            "category": "Software development",
+            "categoryColor": "pink",
+            "title": "Android Developer",
+            "level": "Junior",
+            "description": "Build and maintain mobile applications using Kotlin, React Native, and modern Android technologies.",
+            "location": "NSTP, Islamabad",
+            "locationType": "On-site",
+            "department": "Mobile Development",
+            "type": "Full-time",
+            "experience": "1-2 years",
+            "expired": false,
+            "postedDate": "2026-07-01",
+            "expiryDate": "2026-07-01",
+            "fullDescription": "We are looking for an Android Developer to join our team at truID. This role is ideal for developers with 1–2 years of experience who are eager to work on cutting-edge Android applications involving SDK development, AI integrations, and modern frameworks. If you're passionate about mobile development and want to grow in a dynamic environment, we'd love to hear from you!",
+            "responsibilities": [
+                "Develop Android Applications: Build and maintain mobile applications using Kotlin, React Native, and modern Android technologies.",
+                "SDK Development: Assist in creating and optimizing Android SDKs for biometric and AI-powered applications.",
+                "Jetpack Compose: Work with Jetpack Compose to design and implement intuitive UI components.",
+                "TensorFlow Model Inference: Implement and integrate AI/ML models using TensorFlow Lite.",
+                "CameraX Integration: Utilize CameraX API for real-time image processing and scanning.",
+                "Collaboration: Work closely with senior developers, UI/UX designers, and product teams.",
+                "Performance Optimization: Ensure smooth app performance by optimizing resource usage.",
+                "Testing and Debugging: Identify and troubleshoot issues through testing and debugging."
+            ],
+            "requirements": [
+                "1–2 years of experience in Android development.",
+                "Proficiency in Kotlin and familiarity with Android development frameworks (Jetpack, MVVM, etc.).",
+                "Hands-on experience with Android SDK, Jetpack Compose, CameraX API, and React Native.",
+                "Understanding of TensorFlow Lite (preferred but not mandatory).",
+                "Knowledge of RESTful APIs and third-party integrations.",
+                "Experience with Git version control.",
+                "Strong problem-solving skills and eagerness to learn."
+            ],
+            "idealCandidate": [
+                "Developers with 1–2 years of Android development experience.",
+                "Candidates with exposure to React Native and a willingness to learn AI/ML integrations.",
+                "Enthusiastic individuals who enjoy problem-solving and working on innovative mobile solutions."
+            ],
+            "benefits": [
+                "Work on cutting-edge AI-powered mobile applications.",
+                "Mentorship and career development from experienced developers.",
+                "Hands-on experience in SDK development and AI-driven technologies.",
+                "Collaborative and growth-focused work environment."
+            ],
+            "applyInstructions": "Send your resume and a brief cover letter to careers@truid.ai with the subject line 'Android Developer Application'."
+        },
+        {
+            "id": "full-stack-developer",
+            "category": "Software development",
+            "categoryColor": "pink",
+            "title": "Full Stack Developer",
+            "level": "Mid-level",
+            "description": "Build scalable, high-performance applications using FastAPI, Django, Vue.js, and React.js.",
+            "location": "NSTP, Islamabad",
+            "locationType": "On-site",
+            "department": "Engineering",
+            "type": "Full-time",
+            "experience": "2+ years",
+            "expired": true,
+            "postedDate": "2024-01-20",
+            "expiryDate": "2025-12-31",
+            "fullDescription": "We are seeking a highly skilled Full Stack Developer with expertise in Python-based back-end frameworks and modern front-end technologies. The ideal candidate will have a proven track record of building scalable, high-performance applications using FastAPI, Django, Vue.js, and React.js.",
+            "responsibilities": [
+                "Design, develop, and maintain RESTful and GraphQL APIs using FastAPI and Django.",
+                "Build interactive, responsive front-end applications with Vue.js and React.js.",
+                "Write clean, scalable, and maintainable code following industry best practices.",
+                "Collaborate with cross-functional teams to define, design, and deliver new features.",
+                "Optimize applications for speed, scalability, and security.",
+                "Implement and maintain database schemas and data models (PostgreSQL, MySQL, NoSQL).",
+                "Perform code reviews, testing, and debugging to ensure high-quality deliverables.",
+                "Deploy and manage applications in cloud environments (AWS, GCP, Azure) or using Docker/Kubernetes.",
+                "Stay up to date with the latest frameworks, tools, and best practices."
+            ],
+            "requirements": [
+                "2+ years of professional experience as a Full Stack Developer.",
+                "Strong proficiency in Python with FastAPI and Django frameworks.",
+                "Hands-on experience with JavaScript/TypeScript, including Vue.js and React.js.",
+                "Strong understanding of REST APIs and WebSockets.",
+                "Proficiency with databases such as PostgreSQL, MongoDB, or Redis.",
+                "Experience with containerization and deployment (Docker, Kubernetes, CI/CD).",
+                "Familiarity with Git/GitHub/GitLab version control.",
+                "Knowledge of testing frameworks (PyTest, Jest, Cypress, etc.).",
+                "Solid understanding of software design principles and architecture patterns."
+            ],
+            "idealCandidate": [
+                "Strong problem-solving and analytical skills.",
+                "Ability to work independently and collaboratively in a team.",
+                "Excellent communication and interpersonal skills.",
+                "Attention to detail with a commitment to producing high-quality work.",
+                "Experience with microservices architecture is a plus.",
+                "Familiarity with cloud services (AWS, GCP, Azure) preferred.",
+                "Knowledge of security best practices in web application development."
+            ],
+            "benefits": [
+                "Competitive salary package.",
+                "Work with cutting-edge technologies.",
+                "Professional development opportunities.",
+                "Collaborative work environment."
+            ],
+            "applyInstructions": "Submit your resume, GitHub profile, and portfolio to careers@truid.ai with 'Full Stack Developer' in the subject line."
+        },
+        {
+            "id": "computer-vision-engineer",
+            "category": "Engineering",
+            "categoryColor": "green",
+            "title": "Research Assistant – Computer Vision Engineer",
+            "level": "Entry-level",
+            "description": "Design and implement computer vision algorithms, develop prototypes for AI solutions.",
+            "location": "NSTP, Islamabad",
+            "locationType": "On-site",
+            "department": "R&D",
+            "type": "Full-time",
+            "experience": "Bachelor's/Master's student or graduate",
+            "expired": true,
+            "postedDate": "2024-02-10",
+            "expiryDate": "2025-12-31",
+            "fullDescription": "We are seeking a motivated Research Assistant – Computer Vision Engineer to join our R&D department. In this role, you will focus on designing and implementing computer vision algorithms, developing prototypes, and supporting the team in building AI solutions for real-world applications. This position is also well-suited for current Master's students looking to gain hands-on research and development experience alongside their studies.",
+            "responsibilities": [
+                "Design, implement, and evaluate computer vision algorithms for tasks such as detection, tracking, segmentation, and recognition.",
+                "Develop prototypes and proof-of-concept systems to validate ideas.",
+                "Optimize models for accuracy, robustness, and inference speed.",
+                "Collaborate with engineers and researchers to integrate solutions into larger systems.",
+                "Document code, experiments, and results in a clear and reproducible manner."
+            ],
+            "requirements": [
+                "Bachelor's or Master's degree in Computer Science, Engineering, or related fields.",
+                "Open to current Master's students with relevant coursework and research interest.",
+                "Solid understanding of computer vision and deep learning concepts.",
+                "Proficiency in Python, with hands-on experience in PyTorch or TensorFlow.",
+                "Familiarity with supporting frameworks such as OpenCV, scikit-learn, ONNX, or TFLite.",
+                "Strong problem-solving and analytical skills."
+            ],
+            "idealCandidate": [
+                "Experience optimizing models for real-time or mobile deployment.",
+                "Knowledge of C++/CUDA for performance acceleration.",
+                "Exposure to model compression and optimization techniques (quantization, pruning, etc.).",
+                "Strong collaboration and communication skills."
+            ],
+            "benefits": [
+                "Opportunity to work on cutting-edge computer vision applications.",
+                "Access to modern tools, frameworks, and infrastructure.",
+                "A collaborative and supportive environment with growth opportunities.",
+                "Potential transition into a full-time engineer role in R&D."
+            ],
+            "applyInstructions": "Send your CV, academic transcripts, and a brief statement of research interest to careers@truid.ai with 'Research Assistant – Computer Vision' in the subject."
+        },
+        {
+            "id": "product-designer",
+            "category": "Design",
+            "categoryColor": "blue",
+            "title": "Product Designer",
+            "level": "Mid-level",
+            "description": "We're looking for a mid-level product designer to join our team.",
+            "location": "NSTP, Islamabad",
+            "locationType": "Hybrid",
+            "department": "Product",
+            "type": "Full-time",
+            "experience": "3-5 years",
+            "expired": true,
+            "postedDate": "2023-11-01",
+            "expiryDate": "2024-03-01",
+            "fullDescription": "Join our product team to create innovative design solutions.",
+            "responsibilities": [],
+            "requirements": [],
+            "idealCandidate": [],
+            "benefits": [],
+            "applyInstructions": "This position has expired."
+        }
+    ]
+}
