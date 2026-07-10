@@ -17,17 +17,21 @@ import {
 	Shield,
 	UserCheck,
 	Fingerprint,
+	PlayCircle,
 } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import Image from "next/image"
 import { usePathname } from "next/navigation"
+import VideoModal from "../shared/videoModal"
+
 
 const Header = () => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false)
 	const [isResourcesOpen, setIsResourcesOpen] = useState(false)
 	const [isIndustriesOpen, setIsIndustriesOpen] = useState(false)
 	const [isSolutionsOpen, setIsSolutionsOpen] = useState(false)
+	const [isVideoOpen, setIsVideoOpen] = useState(false)
 	const pathname = usePathname()
 
 	const navItems = [
@@ -306,6 +310,13 @@ const Header = () => {
 						>
 							Contact us
 						</Link>
+						<button
+							onClick={() => setIsVideoOpen(true)}
+							className="flex items-center gap-1.5 text-gray-700 hover:text-blue-600 transition-colors text-sm font-medium px-2 cursor-pointer"
+						>
+							<PlayCircle size={16} />
+							Watch Demo
+						</button>
 						<Link href={"https://calendly.com/d/4nt-r5r-fg7/product-demo"} target="_blank" >
 						<Button className="bg-blue-600 hover:bg-blue-700 text-white py-[22px] cursor-pointer">
 							Book a demo
@@ -468,6 +479,7 @@ const Header = () => {
 								)}
 							</div>
 
+							{/* Mobile Watch Demo + CTA */}
 							<div className="flex flex-col gap-2 pt-4 border-t border-gray-100">
 								<Link
 									href={"/contact-us"}
@@ -475,6 +487,16 @@ const Header = () => {
 								>
 									Contact us
 								</Link>
+								<button
+									onClick={() => {
+										setIsMenuOpen(false)
+										setIsVideoOpen(true)
+									}}
+									className="flex items-center gap-1.5 text-left text-gray-700 hover:text-blue-600 transition-colors text-sm font-medium px-2 cursor-pointer"
+								>
+									<PlayCircle size={16} />
+									Watch Demo
+								</button>
 								<Link href="https://calendly.com/d/4nt-r5r-fg7/product-demo" target="_blank">
 									<Button className="w-full bg-blue-600 hover:bg-blue-700 text-white cursor-pointer">
 										Book a demo
@@ -485,6 +507,13 @@ const Header = () => {
 					</div>
 				)}
 			</div>
+
+			{/* Demo Video Modal */}
+			<VideoModal
+				isOpen={isVideoOpen}
+				onClose={() => setIsVideoOpen(false)}
+				videoUrl="/videos/Truid.mp4"
+			/>
 		</header>
 	)
 }
