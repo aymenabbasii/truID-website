@@ -42,7 +42,7 @@ export default function SolutionWhyChoose({ title, description, heroImage }) {
 							src={`/solutions/whyus${heroImage}`}
 							alt={title}
 							fill
-							className="object-cover"
+							className="object-contain"
 							style={{ objectPosition: "60% 100%" }}
 							priority
 						/>
