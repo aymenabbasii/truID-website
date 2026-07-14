@@ -21,7 +21,7 @@ const DemoVideo = () => {
 			id="demo-video"
 		>
 			<h1 className="text-4xl md:text-6xl font-semibold max-w-3xl text-gray-800 leading-tight mb-6 ml-4 relative z-10">
-				Watch truID in action
+				Watch truID in Action
 			</h1>
 			<div
 				className="relative max-w-7xl mx-auto rounded-3xl h-[500px] overflow-hidden"

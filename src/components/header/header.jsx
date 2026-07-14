@@ -310,13 +310,6 @@ const Header = () => {
 						>
 							Contact us
 						</Link>
-						<button
-							onClick={() => setIsVideoOpen(true)}
-							className="flex items-center gap-1.5 text-gray-700 hover:text-blue-600 transition-colors text-sm font-medium px-2 cursor-pointer"
-						>
-							<PlayCircle size={16} />
-							Watch Demo
-						</button>
 						<Link href={"https://calendly.com/d/4nt-r5r-fg7/product-demo"} target="_blank" >
 						<Button className="bg-blue-600 hover:bg-blue-700 text-white py-[22px] cursor-pointer">
 							Book a demo
@@ -487,16 +480,7 @@ const Header = () => {
 								>
 									Contact us
 								</Link>
-								<button
-									onClick={() => {
-										setIsMenuOpen(false)
-										setIsVideoOpen(true)
-									}}
-									className="flex items-center gap-1.5 text-left text-gray-700 hover:text-blue-600 transition-colors text-sm font-medium px-2 cursor-pointer"
-								>
-									<PlayCircle size={16} />
-									Watch Demo
-								</button>
+								
 								<Link href="https://calendly.com/d/4nt-r5r-fg7/product-demo" target="_blank">
 									<Button className="w-full bg-blue-600 hover:bg-blue-700 text-white cursor-pointer">
 										Book a demo
