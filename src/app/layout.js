@@ -7,7 +7,7 @@ const poppins = Poppins({
 	weight: ["300", "400", "500", "600", "700", "800", "900"],
 })
 
-const metadata = {
+export const metadata = {
 	title: {
 		template: "%s - truID",
 		default: "truID - Secure Identity Verification Solutions",
