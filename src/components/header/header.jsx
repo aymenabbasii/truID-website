@@ -1,5 +1,5 @@
 "use client"
-import React, { useState } from "react"
+import React, { useEffect, useState } from "react"
 import {
 	Menu,
 	X,
@@ -33,6 +33,7 @@ const Header = () => {
 	const [isSolutionsOpen, setIsSolutionsOpen] = useState(false)
 	const [isVideoOpen, setIsVideoOpen] = useState(false)
 	const pathname = usePathname()
+	const [isScrolled, setIsScrolled] = useState(false)
 
 	const navItems = [
 		{ label: "Our Company", href: "/our-company" },
@@ -108,8 +109,28 @@ const Header = () => {
 
 	const isHome = pathname === "/"
 
+	useEffect(() => {
+  const handleScroll = () => {
+    setIsScrolled(window.scrollY > 40)
+  }
+
+  handleScroll()
+
+  window.addEventListener("scroll", handleScroll)
+
+  return () => window.removeEventListener("scroll", handleScroll)
+}, [])
+
 	return (
-		<header className="fixed top-0 left-0 right-0 z-50">
+		<header
+  className={`fixed left-0 right-0 z-50 transition-all duration-300 ${
+    isHome
+      ? isScrolled
+        ? "top-0"
+        : "top-10"
+      : "top-0"
+  }`}
+>
 			<div
 				className={`max-w-[1300px] mx-auto px-4 sm:px-6 lg:px-8 my-2 
      bg-blue-100/40 backdrop-blur-sm rounded-3xl border-2
