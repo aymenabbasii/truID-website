@@ -70,7 +70,7 @@ export default function SolutionHero({
 						src={`/solutions${heroImage}`}
 						alt={title}
 						fill
-						className="object-contain lg:object-cover"
+						className="object-contain lg:object-contain"
 						priority
 					/>
 
