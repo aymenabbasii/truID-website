@@ -2,38 +2,17 @@
 
 import Link from "next/link"
 
-const items = Array.from({ length: 8 })
-
 export default function AnnouncementBar() {
-	return (
-		<div className="bg-[#0057FF] h-10 overflow-hidden">
-			<Link
-				href="/#demo-video"
-				className="block h-full w-full"
-			>
-				<div className="marquee">
-					<div className="marquee-track">
-						{items.map((_, index) => (
-							<span
-								key={`first-${index}`}
-								className="marquee-item"
-							>
-								🎥 Click here to watch truID in action
-							</span>
-						))}
-
-						{items.map((_, index) => (
-							<span
-								key={`second-${index}`}
-								className="marquee-item"
-								aria-hidden="true"
-							>
-								🎥 Click here to watch truID in action
-							</span>
-						))}
-					</div>
-				</div>
-			</Link>
-		</div>
-	)
+  return (
+    <div className="bg-[#0057FF] h-10">
+      <Link
+        href="/#demo-video"
+        className="flex h-full w-full items-center justify-center px-4"
+      >
+        <span className="text-sm font-medium text-white">
+            Experience fast, secure identity verification with truID. Click here to watch the Demo!
+        </span>
+      </Link>
+    </div>
+  )
 }
