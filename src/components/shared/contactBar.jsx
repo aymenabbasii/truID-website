@@ -19,7 +19,7 @@ export default function ContactBar() {
 				<div className="flex gap-4">
 
 					<Link
-						href="https://calendly.com/d/4nt-r5r-fg7/product-demo"
+						href="https://calendly.com/tufail-zaman-truid/30min"
 						target="_blank"
 					>
 						<Button className="p-5 bg-white text-primary cursor-pointer">

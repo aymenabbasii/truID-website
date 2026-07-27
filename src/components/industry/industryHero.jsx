@@ -25,7 +25,7 @@ export default function IndustryHero({
 					<div className="hidden md:flex items-center gap-4 mt-6 ">
 						
 						<Link
-							href={"https://calendly.com/d/4nt-r5r-fg7/product-demo"}
+							href={"https://calendly.com/tufail-zaman-truid/30min"}
 							target="_blank"
 						>
 							<Button className="bg-blue-600 hover:bg-blue-700 text-white py-[22px] cursor-pointer">

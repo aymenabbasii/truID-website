@@ -26,7 +26,7 @@ export default function CTA() {
 					prevent fraud, and stay fully compliant.
 				</p>
 				<Link
-					href="https://calendly.com/d/4nt-r5r-fg7/product-demo"
+					href="https://calendly.com/tufail-zaman-truid/30min"
 					target="_blank"
 					className=" relative z-10"
 				>

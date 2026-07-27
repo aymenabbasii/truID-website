@@ -331,7 +331,7 @@ const Header = () => {
 						>
 							Contact us
 						</Link>
-						<Link href={"https://calendly.com/d/4nt-r5r-fg7/product-demo"} target="_blank" >
+						<Link href={"https://calendly.com/tufail-zaman-truid/30min"} target="_blank" >
 						<Button className="bg-blue-600 hover:bg-blue-700 text-white py-[22px] cursor-pointer">
 							Book a demo
 						</Button>
@@ -502,7 +502,7 @@ const Header = () => {
 									Contact us
 								</Link>
 								
-								<Link href="https://calendly.com/d/4nt-r5r-fg7/product-demo" target="_blank">
+								<Link href="https://calendly.com/tufail-zaman-truid/30min" target="_blank">
 									<Button className="w-full bg-blue-600 hover:bg-blue-700 text-white cursor-pointer">
 										Book a demo
 									</Button>
