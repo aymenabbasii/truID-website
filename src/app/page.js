@@ -25,7 +25,7 @@ const DemoVideo = () => {
 				Watch truID in Action
 			</h1>
 
-			<div className="relative max-w-7xl mx-auto rounded-3xl h-[500px] overflow-hidden">
+			<div className="relative max-w-7xl mx-auto rounded-3xl h-[700px] overflow-hidden">
 				<video
 					src="/videos/TruID.mp4"
 					controls
