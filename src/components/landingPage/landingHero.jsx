@@ -221,7 +221,7 @@ const LandingHero = () => {
 				{/* Partners Section */}
 				<div className="mt-32">
 					{/* Infinite Scroll Partners Slider */}
-					<div className="relative w-full h-24 overflow-hidden bg-white rounded-3xl shadow-lg flex items-center">
+					<div className="relative w-2/3 m-auto h-24 overflow-hidden bg-white rounded-3xl shadow-lg flex items-center">
 						{/* Scrolling container */}
 						<div className="flex w-max items-center animate-scroll">
 							{/* First set of logos */}
