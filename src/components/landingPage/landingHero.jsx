@@ -13,7 +13,8 @@ const LandingHero = () => {
 	const card2Ref = useRef(null)
 	const card3Ref = useRef(null)
 
-	const partners = ["/2.png", "/3.png", "/4.png", "/5.png", "/6.png" , "/7.png"]
+	// const partners = ["/2.png", "/3.png", "/4.png", "/5.png", "/6.png" , "/7.png"]
+	const partners = ["/3.png", "/4.png", "/5.png"]
 	const sizes = [
  "w-64 h-40",
  "w-48 h-28",
