@@ -94,7 +94,7 @@
   },
   {
     "name": "Hammad Hussain",
-    "department": "iOS Developer",
+    "department": "Android Developer",
     "description": "",
     "image": "/team/hammad.jpg",
     "email": "",
@@ -129,7 +129,7 @@
     "tag": "Engineering Team"
   },
   {
-    "name": "Muneed ur Rehman",
+    "name": "Muneeb ur Rehman",
     "department": "QA Engineer",
     "description": "",
     "image": "/team/muneed.jpg",
@@ -148,7 +148,7 @@
   },
   {
     "name": "Azhan Naqeeb",
-    "department": "Computer Vision Engineer",
+    "department": "Senior Computer Vision Engineer",
     "description": "",
     "image": "/team/azhan-naqeeb.jpeg",
     "email": "azhan.naqeeb@hotmail.com",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Muhammad Abdullah Khalid",
-    "department": "Computer Vision Engineer",
+    "department": "Senior Computer Vision Engineer",
     "description": "",
     "image": "/team/abdullah-khalid.jpeg",
     "email": "makhalid1999@gmail.com",
@@ -165,8 +165,8 @@
     "tag": "R&D Team"
   },
   {
-    "name": "Ismail ",
-    "department": " AI/ML Engineer",
+    "name": "Sardar Madiha Khan",
+    "department": " QA Engineer",
     "description": "",
     "image": "/team/ismail.jpg",
     "email": "",
